@@ -54,3 +54,5 @@ def f7(a):
         return "tag poczatkowy"
     elif re.match("</.....>",a):
         return "tag koncowy"
+
+# testowanie git
